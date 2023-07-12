@@ -2,6 +2,9 @@
 
 ShopBot is a Telegram bot that allows users to purchase products easily and automatically through Telegram. It provides a convenient way for shop owners to manage their products and interact with customers.
 
+This code uses the [EzTG](https://github.com/peppelg/EzTG) script to communicate with the Telegram API. It is a simple and intuitive library because it allows you to use the official methods of the Telegram API and work directly with raw data.
+Therefore, I am very grateful to @peppelg, the creator of this library.
+
 ## Features
 
 - Browse products and view their descriptions, prices, and media (images or videos).
