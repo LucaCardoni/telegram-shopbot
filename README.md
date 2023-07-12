@@ -16,7 +16,7 @@ Downoad the repo, or clone it with git
 
 `git clone https://github.com/Rickionee/telegram-shopbot`
 
-* Update the owner, owner_id, tokenbot, feeds, and ToS variables in the script (row 4-9) with your own values.
+Update the owner, owner_id, tokenbot, feeds, and ToS variables in the script (row 4-9) with your own values.
 
 ## 🏃‍♂️ Usage
 Run the `shop_bot.py` script:
