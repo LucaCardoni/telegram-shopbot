@@ -19,7 +19,7 @@ Downoad the repo, or clone it with git
 Update the owner, owner_id, tokenbot, feeds, and ToS variables in the script (row 4-9) with your own values.
 
 ## 🏃‍♂️ Usage
-Run the `shop_bot.py` script:
+Run the `shopbot.py` script:
 
 When you start the bot, if you are the owner, you will see the control panel to modify your shop. From there, you can use the buttons to fully manage the shop. You can add, remove, or modify your products, and you can add a name, description, image, video, and price.
 
