@@ -5,7 +5,7 @@ owner = "" # Owner's telegram username (without @)
 owner_id = 0 # Owner's telegram id
 tokenbot = "" # bot's token
 feeds = "https://t.me/" # feeds channel link
-ToS = "asofoe" # telegra.ph link to your ToS
+ToS = "" # telegra.ph link to your ToS
 currency = "€" # currency that you want your price to be in
 
 with open('products.json') as json_products:
