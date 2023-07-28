@@ -17,7 +17,7 @@ Therefore, I am very grateful to [@peppelg](https://github.com/peppelg), the cre
 
 Downoad the repo, or clone it with git
 
-`git clone https://github.com/Rickionee/telegram-shopbot`
+`git clone https://github.com/LucaCardoni/telegram-shopbot`
 
 Update the owner, owner_id, tokenbot, feeds, and ToS variables in the script (row 4-9) with your own values.
 
